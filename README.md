@@ -3,7 +3,7 @@
 A modern, responsive restaurant website built using HTML, CSS, and JavaScript.  
 This project focuses on clean UI design, accessibility, and a structured food menu experience suitable for real-world restaurant websites.
 
-## ✨ Feature
+## ✨ Features
 
 - Responsive design for desktop, tablet, and mobile devices
 - Modern UI with clean layout and smooth interactions
