@@ -14,7 +14,7 @@ This project focuses on clean UI design, accessibility, and a structured food me
 - Well-structured and reusable CSS
 - Vanilla JavaScript for interactivity
 
-## 🛠️ Tech Stack
+## 🛠️ TechStack
 
 - HTML5
 - CSS3
