@@ -1,4 +1,4 @@
-## Mhshwbbwodern Restaurant Website
+## Modern Restaurant Website
 
 A modern, responsive restaurant website built using HTML, CSS, and JavaScript.  
 This project focuses on clean UI design, accessibility, and a structured food menu experience suitable for real-world restaurant websites.
